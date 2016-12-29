@@ -11,7 +11,7 @@ So its ideal if you are prototyping something like facebook messenger bot or goo
 More info on api.ai query - https://docs.api.ai/docs/query
 
 
-here is basic usage of the module
+here is basic usage of the module - https://framer.cloud/smEcy
 
 ```
 api_ai = require 'apiai'
@@ -40,3 +40,12 @@ printfunc=(data)->
 
 api_ai.send string,printfunc, token,session
 ```
+
+example of https://github.com/mamezito/FramerMessengerChatBot used with api.ai pizza delivery sample https://framer.cloud/DlOZG
+
+
+google home sample with speech recognition on framer end and chat mechanics on apiai side (chrome only) -
+
+
+
+
