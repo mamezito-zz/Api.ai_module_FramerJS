@@ -45,6 +45,8 @@ example of https://github.com/mamezito/FramerMessengerChatBot used with api.ai p
 
 
 google home sample with speech recognition on framer end and chat mechanics on apiai side (chrome only) -
+https://framer.cloud/H1B-q_dNe
+This prototypes uses predefined domains from apiai called small talk - https://docs.api.ai/docs/small-talk#reference
 
 
 
