@@ -5,5 +5,7 @@
 
     "require": "api_ai = require 'apiai'",
     "install": "apiai.coffee",
-    "example": "example.coffee"
+    "example": "example.coffee",
+
+    "thumb": "thumb.png"
 }
