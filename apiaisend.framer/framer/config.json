@@ -1,17 +1,18 @@
 {
-  "propertyPanelToggleStates" : {
-
-  },
-  "deviceOrientation" : 0,
-  "sharedPrototype" : true,
-  "contentScale" : 1,
-  "deviceType" : "fullscreen",
-  "selectedHand" : "",
+  "orientation" : 0,
   "updateDelay" : 0.3,
-  "deviceScale" : 1,
+  "designModeSelected" : 0,
+  "cachedDeviceHeight" : 0,
+  "contentScale" : 1,
+  "cachedDeviceWidth" : 0,
+  "deviceType" : "fullscreen",
+  "sharedPrototype" : true,
+  "projectId" : "B40816B7-3DF3-41AC-A056-4BCA620679AB",
+  "deviceOrientation" : 0,
+  "selectedHand" : "",
+  "showBezel" : 0,
   "foldedCodeRanges" : [
 
   ],
-  "orientation" : 0,
-  "projectId" : "A540403E-6D49-4BF8-B442-2C1B0ED06A7F"
+  "deviceScale" : 1
 }

@@ -1,0 +1,9 @@
+{
+    "name": "api_ai framer",
+    "description": "module that connects framerjs and api.ai via ajax",
+    "author": "Sergiy Voronov",
+
+    "require": "api_ai = require 'apiai'",
+    "install": "apiai.coffee",
+    "example": "example.coffee"
+}
