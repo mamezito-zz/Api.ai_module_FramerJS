@@ -21,7 +21,8 @@ or add it manually
 ```
 api_ai = require 'apiai'
 #change token to your token here
-token = "9973f0c5fc2d4f6f90243d51d73c3294"
+token = "######"
+# your api.ai token here
 
 string="how are you?"
 
